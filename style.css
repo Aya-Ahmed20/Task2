@@ -1,0 +1,39 @@
+div{
+    margin: 20px 40px;
+    padding: 20px;
+    border: solid 1px #ccc;
+    border-radius: 10px;
+    font-family: monospace;
+    font-size: 24px;
+}
+.heading{
+    font-weight: bold;
+    color: #00698f;
+}
+.span-text{
+    text-transform: uppercase;
+    font: 18px #666 ;
+}
+.image{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 18px #ccc;
+}
+.paragraph-p1{
+    border-style: solid dashed;
+    border-width: 5px;
+    border-color: red;
+    padding: 12px;
+    text-align: justify;
+}
+.paragraph-p2{
+    line-height: 25px ;
+    text-align: center; 
+    font-style: italic;
+}
+.list-item{
+    list-style-type: circle;
+    font-size: 18px;
+    color: #666;
+}
